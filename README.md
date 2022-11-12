@@ -1,4 +1,4 @@
-# clownified
+# Clownified
 
 Displays a clown emoji instead of a verified checkmark for users who gave Elon $8.
 
