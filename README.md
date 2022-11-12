@@ -1,4 +1,4 @@
-# Clownified
+# Clownified for Twitter
 
 Displays a clown emoji instead of a verified checkmark for users who gave Elon $8.
 
